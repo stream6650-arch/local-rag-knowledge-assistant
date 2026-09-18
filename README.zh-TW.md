@@ -65,7 +65,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 從教學版走向完整 RAG
+## 從demo版走向完整 RAG
 
 ```mermaid
 flowchart LR
@@ -76,7 +76,7 @@ D --> E[Local LLM]
 E --> F[RAG Evaluation]
 ```
 
-## 可延伸教學主題
+## 可延伸主題
 
 RAG · Chunking · Vectorization · Cosine Similarity · Top-k Retrieval · Grounding · Hallucination · Embeddings · Vector Database · Reranking · Evaluation
 
