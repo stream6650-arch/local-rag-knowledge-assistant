@@ -74,7 +74,7 @@ D --> E[Local LLM]
 E --> F[RAG evaluation]
 ```
 
-## Topics I can teach
+## Topics we can discuss
 RAG · chunking · vectorization · cosine similarity · top-k retrieval · grounding · hallucination · embeddings · vector databases · reranking · evaluation
 
 ## Privacy & security
