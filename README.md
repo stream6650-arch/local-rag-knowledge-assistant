@@ -1,5 +1,7 @@
 # Local RAG Knowledge Assistant
 
+**English** | [繁體中文](README.zh-TW.md)
+
 > A visual RAG teaching demo that exposes the retrieval process instead of hiding it behind an API.  
 > **Local · No API key · Generic teaching documents only**
 
